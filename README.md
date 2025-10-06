@@ -17,7 +17,7 @@ The model takes 30×30 RGB images as input and predicts the sign category.
 
 ---
 
-## 🧱 Model Architecture
+##  Model Architecture
 The CNN model includes:
 - Convolution + ReLU + MaxPooling layers
 - Fully connected (Linear) layers
